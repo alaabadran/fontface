@@ -1,2 +1,2 @@
 # fontface
-FrontFace front end
+FrontFace front end using Polymer
